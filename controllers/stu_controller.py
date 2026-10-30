@@ -218,5 +218,3 @@ def get_student_controller_course(
         }
         
 
-## create a branch feature-login,modify app.py,commit the changes , switch back to main and marge the branch
-## - writ the commands used and show the output of git log --oneline --graph 
